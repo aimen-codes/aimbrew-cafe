@@ -26,12 +26,12 @@ Responsive footer
 Basic form interaction and validation
 
 ## Technologies Used
-HTML5
-CSS3
-JavaScript
-Google Fonts
-Font Awesome
-Responsive Web Design
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
+- Google Fonts
+- Responsive Web Design
 
 ## Pages
 Home
@@ -40,13 +40,13 @@ Book Now
 Contact
 
 ## Menu Items
-Coffee
-Pizza
-Sandwiches
-Shakes
-Iced Tea
-Mojito
-Other cafe items
+- Coffee
+- Pizza
+- Sandwiches
+- Shakes
+- Iced Tea
+- Mojito
+- Other cafe items
 
 ## Learning Outcomes
 
@@ -56,6 +56,6 @@ Through this project, I improved my skills in frontend development, responsive w
 
 The main purpose of this project is to develop a modern and responsive cafe website while gaining practical experience in building a real-world web application.
 
-##Author
+## Author
 
 Developed by Aimen Khan as part of the SQROCK IT Solutions Internship.
