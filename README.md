@@ -8,22 +8,22 @@ AIMBREW CAFE is a modern and responsive cafe website developed as part of the SQ
 The project provides users with an easy and user-friendly platform to explore the cafe menu, view food and drinks, make reservations, and access contact information.
 
 ## Features
-Responsive homepage
-Attractive hero section
-About Us section
-Cafe menu
-Food and drink listings
-Food and drink images
-Menu categories
-Book a Table / Reservation form
-Contact form
-Contact information
-Image gallery
-Responsive navigation
-Mobile-friendly design
-Social media links
-Responsive footer
-Basic form interaction and validation
+- Responsive homepage
+- Attractive hero section
+- About Us section
+- Cafe menu
+- Food and drink listings
+-  and drink images
+- Menu categories
+- Book a Table / Reservation form
+- Contact form
+- Contact information
+- Image gallery
+- Responsive navigation
+- Mobile-friendly design
+- Social media links
+- Responsive footer
+- Basic form interaction and validation
 
 ## Technologies Used
 - HTML5
@@ -34,10 +34,10 @@ Basic form interaction and validation
 - Responsive Web Design
 
 ## Pages
-Home
-Menu
-Book Now
-Contact
+- Home
+- Menu
+- Book Now
+- Contact
 
 ## Menu Items
 - Coffee
